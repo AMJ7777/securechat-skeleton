@@ -1,0 +1,15 @@
+# Cryptographic Primitives
+cryptography>=42.0.0
+
+# Database Connectivity
+PyMySQL>=1.1.0
+
+# Configuration Management
+python-dotenv>=1.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Terminal Output Enhancement (Optional)
+rich>=13.0.0
+
